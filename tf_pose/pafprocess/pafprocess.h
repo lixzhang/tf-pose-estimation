@@ -6,8 +6,8 @@
 const float THRESH_HEAT = 0.05;
 const float THRESH_VECTOR_SCORE = 0.05;
 const int THRESH_VECTOR_CNT1 = 8;
-const int THRESH_PART_CNT = 4;
-const float THRESH_HUMAN_SCORE = 0.4;
+const int THRESH_PART_CNT = 2;
+const float THRESH_HUMAN_SCORE = 0.2;
 const int NUM_PART = 18;
 
 const int STEP_PAF = 10;
